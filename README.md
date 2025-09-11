@@ -6,13 +6,20 @@
 
 ---
 
+## 🌐 Let’s Connect  
+
+<p align="center">
+  <a href="mailto:manuel.rentheria@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rentheria"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://rentheria-portfolio.web.app/overview"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
 ## 🌟 About Me  
 I’m a **software engineer** with **5+ years of experience** building enterprise web and hybrid apps.  
 I enjoy turning ideas into **scalable, real-world solutions** with clean UIs and solid backends.  
 
-- 🔭 Currently working on:  
-  - 🚀 **Swiss Premier** → Hybrid Angular/Ionic app for client & debt management  
-  - 🛣️ **IMT Pave** → Full-stack system for pavement & traffic analysis  
 - 🌱 Always learning → diving into **React**, **Supabase**, and **cloud/DevOps**  
 - 👯 Open to collaborate → Angular/Ionic tools, SaaS apps, data viz projects  
 - 💬 Ask me about Angular, hybrid apps, state management, or CI/CD setups  
@@ -36,22 +43,6 @@ I enjoy turning ideas into **scalable, real-world solutions** with clean UIs and
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🔹 [Swiss Premier](https://rentheria-portfolio.web.app/overview)  
-Hybrid app (Angular + Ionic) for client/debt management, optimized for **web, iOS, Android**.  
-✔️ Cross-platform & responsive  
-✔️ Real-time API integrations  
-✔️ CI/CD with Firebase  
-
-### 🔹 [IMT Pave](https://rentheria-portfolio.web.app/overview)  
-Full-stack system for **pavement analysis & traffic modeling**.  
-✔️ Angular UI with advanced charts & analytics  
-✔️ REST APIs with NestJS + Spring  
-✔️ Firebase + Heroku deployment  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -65,13 +56,20 @@ Full-stack system for **pavement analysis & traffic modeling**.
 
 ---
 
-## 🌐 Let’s Connect  
 
-<p align="center">
-  <a href="mailto:manuel.rentheria@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rentheria"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://rentheria-portfolio.web.app/overview"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+## 🚀 Featured Projects  
+
+### 🔹 [Swiss Premier](https://rentheria-portfolio.web.app/overview)  
+Hybrid app (Angular + Ionic) for client/debt management, optimized for **web, iOS, Android**.  
+✔️ Cross-platform & responsive  
+✔️ Real-time API integrations  
+✔️ CI/CD with Firebase  
+
+### 🔹 [IMT Pave](https://rentheria-portfolio.web.app/overview)  
+Full-stack system for **pavement analysis & traffic modeling**.  
+✔️ Angular UI with advanced charts & analytics  
+✔️ REST APIs with NestJS + Spring  
+✔️ Firebase + Heroku deployment  
 
 ---
 
