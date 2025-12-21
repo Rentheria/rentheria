@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hey, I’m Manuel 👋</h1>
+<h1 align="center">Hey, I’m Alejandro Rentheria 👋</h1>
 <p align="center">
   <b>Software Engineer | Web UI Developer | Builder of cool digital stuff</b>
 </p>
