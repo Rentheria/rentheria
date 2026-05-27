@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hey, I’m Alejandro Rentheria 👋</h1>
 <p align="center">
-  <b>Software Engineer | Web UI Developer | Builder of cool digital stuff</b>
+  <b>Software Engineer | Web UI Developer | Cursor Ambassador | Builder of cool digital stuff</b>
 </p>
 
 ---
