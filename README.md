@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Manuel Alejandro Hernández Rentería</h1>
-
+<h3 align="center">Rentheria</h3>
 <p align="center">
-  Senior Frontend &amp; Fullstack Engineer · Frontend Technical Lead<br/>
+  Senior Frontend &amp; Fullstack Engineer · Frontend Technical Lead · Cursor Ambassador<br/>
   Guadalajara, México
 </p>
 
@@ -60,10 +60,13 @@ no data leaving the field.
 
 ## Toolbox
 
-**Frontend** · `TypeScript` `Angular` `RxJS` `NgRx` `Micro-frontends` `Tailwind`  
-**Backend** · `NestJS` `Node.js` `Prisma` `PostgreSQL` `Redis` `JWT / RBAC`  
-**Mobile** · `Flutter` `Dart` `Ionic / Capacitor` `ONNX Runtime`  
-**Craft &amp; ops** · `Docker` `Nginx` `CI/CD` `Figma` `Accessibility (WCAG)`
+**Languages** · `JavaScript` `TypeScript`  
+**Frontend** · `Angular` `AngularJS` `RxJS` `NgRx` `HTML5` `CSS3` `SCSS / SASS` `Tailwind CSS` `Ionic` `PWA` `Micro-frontends` `Accessibility (WCAG, ADA)` `UX / UI design`  
+**Backend** · `NestJS` `Node.js` `REST APIs` `Prisma` `Redis` `JWT / RBAC`  
+**Mobile** · `Flutter` `Dart` `Ionic / Capacitor`  
+**DevOps &amp; Cloud** · `Docker` `Nginx` `CI/CD` `Firebase` `Railway` `Heroku` `Git` `GitHub` `Bitbucket` `GitLab`  
+**Testing** · `Jest` `Jasmine`  
+**Concepts** · `OOP` `MVC` `SOLID` `Clean Architecture` `Offline-first`
 
 ---
 
@@ -73,5 +76,3 @@ no data leaving the field.
 **Google AI Professional Certificate** · [verify on Credly](https://www.credly.com/badges/34ad3b8c-ac96-424c-896c-aeea63c3e74c)
 
 ---
-
-<p align="center"><sub>Guadalajara, México · <em>construyo cosas que ayudan a las personas.</em></sub></p>
