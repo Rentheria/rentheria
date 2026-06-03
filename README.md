@@ -15,8 +15,6 @@
   <a href="https://rentheria.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-501313?style=for-the-badge&logo=googlechrome&logoColor=F0E6E0" /></a>
   <a href="https://www.linkedin.com/in/rentheria"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-501313?style=for-the-badge&logoColor=F0E6E0" /></a>
   <a href="mailto:rentheria.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-501313?style=for-the-badge&logo=gmail&logoColor=F0E6E0" /></a>
-  <a href="https://cursor.com"><img alt="Cursor Ambassador" src="https://img.shields.io/badge/Cursor%20Ambassador-C8962E?style=for-the-badge&logo=cursor&logoColor=140D0D" /></a>
-  <a href="https://www.credly.com/badges/34ad3b8c-ac96-424c-896c-aeea63c3e74c"><img alt="Google AI Professional Certificate" src="https://img.shields.io/badge/Google%20AI%20Professional%20Certificate-501313?style=for-the-badge&logo=google&logoColor=F0E6E0" /></a>
 </p>
 
 ## About
@@ -66,6 +64,13 @@ no data leaving the field.
 **Backend** · `NestJS` `Node.js` `Prisma` `PostgreSQL` `Redis` `JWT / RBAC`  
 **Mobile** · `Flutter` `Dart` `Ionic / Capacitor` `ONNX Runtime`  
 **Craft &amp; ops** · `Docker` `Nginx` `CI/CD` `Figma` `Accessibility (WCAG)`
+
+---
+
+## Credentials
+
+**Cursor Ambassador** · part of the official [Cursor](https://cursor.com) ambassador program  
+**Google AI Professional Certificate** · [verify on Credly](https://www.credly.com/badges/34ad3b8c-ac96-424c-896c-aeea63c3e74c)
 
 ---
 
