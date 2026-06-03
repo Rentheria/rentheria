@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/calm-logo.png" alt="Rentheria — faceted low-poly T-Rex mark" width="160" />
+  <img src="assets/flat-logo.png" alt="Rentheria — faceted low-poly T-Rex mark" width="160" />
 </p>
 
 <h1 align="center">Manuel Alejandro Hernández Rentería</h1>
@@ -16,6 +16,7 @@
   <a href="https://www.linkedin.com/in/rentheria"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-501313?style=for-the-badge&logoColor=F0E6E0" /></a>
   <a href="mailto:rentheria.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-501313?style=for-the-badge&logo=gmail&logoColor=F0E6E0" /></a>
   <a href="https://cursor.com"><img alt="Cursor Ambassador" src="https://img.shields.io/badge/Cursor%20Ambassador-C8962E?style=for-the-badge&logo=cursor&logoColor=140D0D" /></a>
+  <a href="https://www.credly.com/badges/34ad3b8c-ac96-424c-896c-aeea63c3e74c"><img alt="Google AI Professional Certificate" src="https://img.shields.io/badge/Google%20AI%20Professional%20Certificate-501313?style=for-the-badge&logo=google&logoColor=F0E6E0" /></a>
 </p>
 
 ## About
