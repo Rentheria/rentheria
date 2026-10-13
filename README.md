@@ -5,7 +5,7 @@
 <h1 align="center">Manuel Alejandro Hernández Rentería</h1>
 <h3 align="center">Rentheria</h3>
 <p align="center">
-  Senior Frontend &amp; Fullstack Engineer · Frontend Technical Lead · Cursor Ambassador<br/>
+  Full-Stack &amp; AI Engineer · System and Data Analyst (AI/LLM) · Cursor Ambassador<br/>
   Guadalajara, México
 </p>
 
@@ -20,15 +20,16 @@
 ## About
 
 I build tools that help people — clean, secure, production software, made with a
-collector's eye for detail. Today I'm a **Frontend Technical Lead**, guiding a team of
-five and standardizing how we build: SOLID, Clean Architecture, and micro-frontends
-that keep large codebases maintainable.
+collector's eye for detail. Today I'm a **System and Data Analyst (AI/LLM)** at
+**Foxconn Industrial Internet** (since Sep 2026): manufacturing process and
+telemetry analytics, predictive models, and LLMs/GenAI applied to ops decision
+support.
 
-Previously at **Globant**, I shipped enterprise web and connected-TV apps for
-**Santander**, **Univisión**, and **Federación Patronal de Seguros** — Angular at depth,
-REST integrations, and releases owned across DEV, TEST, and PROD. I've also taken
-products end to end on my own: requirements, architecture, UX, frontend, backend, and
-deployment.
+Previously **Frontend Technical Lead** at **MAVI de Occidente** (Feb–Jun 2026,
+team of five — SOLID, Clean Architecture). Before that, **Globant**
+(Nov 2021–Jun 2025) for **Santander**, **Univisión**, and **Federación Patronal
+de Seguros**. Independent practice since Mar 2024: nine client products and one
+SaaS venture (**Orkesta**) from requirements to production.
 
 I help product teams ship maintainable, accessible apps — and the systems behind them.
 
@@ -36,12 +37,14 @@ I help product teams ship maintainable, accessible apps — and the systems behi
 
 ## Selected work
 
-**No. 01 — Abe's Pottery API**  
-`NestJS 11` · `Prisma 7` · `PostgreSQL 15` · `Redis 7`  
-Complete ERP system for a pottery business managing quotes, invoices, packing slips, product catalog, and customers. Features include audit logging, document numbering with annual reset, proper monetary handling using Decimals (never floats), snapshot-based line items for historical accuracy, and JWT authentication with refresh token rotation. Built for maintainability and scalability as the business grows.
+**No. 01 — Abe's Pottery**  
+`NestJS 11` · `Prisma 7` · `PostgreSQL 15` · `Redis 7` · `Angular 21 SSR` · `Gemini`  
+ERP for a pottery business — quotes, invoices, packing slips, catalog, and
+customers. Decimals for money, snapshot line items, JWT with refresh rotation.
+Angular 21 SSR front plus a Gemini AI receptionist.
 
 **No. 02 — IMT Pave Express**  
-`Angular 17` · `Spring Boot` · `NestJS` · `PostgreSQL`  
+`Angular 19 SSR` · `NestJS 10` · `Spring Boot 3.5` · `PostgreSQL`  
 Lead engineer (team of three) on a pavement-engineering SaaS: real-time structural,
 spectral, and probabilistic analysis through multi-step forms and interactive data
 viz, backed by a high-performance Java calculation API with JWT/RBAC auth.
@@ -53,12 +56,22 @@ pavement analysis. Inference happens fully on the device — no server, no conne
 no data leaving the field.
 
 **No. 04 — Orkesta**  
-`NestJS 11` · `Prisma 6` · `PostgreSQL` · `Redis/Bull`  
-Complete digital invitations and event management platform. Features include intelligent RSVP tracking, guest management with CSV import/export, drag-and-drop table planner, automated messaging (email/SMS/WhatsApp), live check-in via Hostest app, and digital gift registries. Implements role-based access control (platform admin, organizer, reception staff, guests) with enterprise-grade security including audit logging and GDPR-compliant data handling.
+`NestJS 11` · `Prisma 6` · `PostgreSQL` · `Redis/Bull` · `Gemini`  
+My own SaaS for digital invitations and events — RSVP tracking, guest lists,
+table planner, automated messaging, and live check-in — with paying users and a
+Gemini conversational layer. Role-based access, audit logging, GDPR-aware handling.
 
 **No. 05 — Remanso**  
 `NestJS 11` · `Prisma 6` · `PostgreSQL` · `Redis/Bull` · `Angular 22`  
-White-label appointment scheduling system for psychology clinics. Features public booking portal, patient appointment management (reschedule/cancel with verification), admin dashboard for clinic operations, blog management, and integrations with Google Calendar/Meet and Apple/Google Wallet for seamless patient experience. Template-based architecture allows easy cloning for new clients—change only configuration and branding while keeping the core system intact. Currently in production serving real patients.
+White-label appointment scheduling for psychology clinics: public booking, patient
+self-service, admin dashboard, and Google Calendar/Meet plus Wallet passes. Template
+architecture — clone, rebrand, ship. In production serving real patients.
+
+**No. 06 — [cursor-native-agent](https://github.com/Rentheria/cursor-native-agent)**  
+`TypeScript` · `Cursor Agent` · `Markdown skills`  
+TypeScript wrapper over Cursor Agent: markdown skills, lazy memory, a local
+dashboard, and confirmed delegation to coding agents. Personal download-and-run
+orchestration around the native CLI.
 
 <sub>Case studies and more at <a href="https://rentheria.com">rentheria.com</a>.</sub>
 
@@ -66,12 +79,13 @@ White-label appointment scheduling system for psychology clinics. Features publi
 
 ## Toolbox
 
-**Languages** · `JavaScript` `TypeScript`  
+**Languages** · `JavaScript` `TypeScript` `Python` `Go` `Java` `Dart` `SQL`  
 **Frontend** · `Angular` `AngularJS` `RxJS` `NgRx` `HTML5` `CSS3` `SCSS / SASS` `Tailwind CSS` `Ionic` `PWA` `Micro-frontends` `Accessibility (WCAG, ADA)` `UX / UI design`  
-**Backend** · `NestJS` `Node.js` `REST APIs` `Prisma` `Redis` `JWT / RBAC`  
+**Backend** · `NestJS` `Node.js` `Spring Boot 3` `REST APIs` `Prisma` `TypeORM` `PostgreSQL` `Redis` `JWT / RBAC` `Swagger / OpenAPI`  
+**AI / LLM** · `Gemini API` `Google ADK` `MCP` `Multi-agent orchestration (Cursor Agent, Claude Code)` `Local RAG (Ollama)` `ONNX Runtime` `Prompt-injection mitigation` `LLM quota control` `Predictive modeling`  
 **Mobile** · `Flutter` `Dart` `Ionic / Capacitor`  
 **DevOps &amp; Cloud** · `Docker` `Nginx` `CI/CD` `Firebase` `Railway` `Heroku` `Git` `GitHub` `Bitbucket` `GitLab`  
-**Testing** · `Jest` `Jasmine`  
+**Testing** · `Jest` `Jasmine` `Vitest` `Playwright`  
 **Concepts** · `OOP` `MVC` `SOLID` `Clean Architecture` `Offline-first`
 
 ---
